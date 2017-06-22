@@ -1,3 +1,3 @@
-# git-demo-repo
+# Git Demo
 # README.md
-some content
+This is some content
